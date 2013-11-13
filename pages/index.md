@@ -2,7 +2,7 @@
 
 TODO: document the attributes of an effective digital citizen.
 
-# Chose your own adventure!
+## Chose your own adventure!
 
 A city appears before you. Its name is Lexington. It exists in a heirarchy of
 organizations called city, state, national, and transnational. It is built for
@@ -19,4 +19,5 @@ How do you interact with Lexington?
 [opendata]: opendata/
 [footprint]: digital-footprint/
 [github]: github/
+[project]: launching-projects/
 [meatspace]: lexington-IRL/
